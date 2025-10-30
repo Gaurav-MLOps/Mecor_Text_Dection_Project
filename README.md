@@ -84,16 +84,14 @@ To reproduce results:
 ```bash
 # Clone repository
 git clone https://github.com/yourusername/Mercor_AI_Text_Detection.git
-```
----
 
 # Install dependencies
 pip install -r requirements.txt
 
----
 
 # Run notebook
 jupyter notebook 01_baseline_ensemble.ipynb
+```
 
 ---
 
