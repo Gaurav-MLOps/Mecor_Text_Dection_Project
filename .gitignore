@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Raw data (Kaggle dataset)
+Mecor_Data/
+
+# OS / Editor junk
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+.DS_Store
