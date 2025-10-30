@@ -54,7 +54,7 @@ This multi-stage ensemble leverages diversity among traditional ML models and me
 ---
 
 ## 📂 Project Structure
-
+```
 Mercor_AI_Text_Detection/
 │
 ├── Mecor_Data/
@@ -65,7 +65,7 @@ Mercor_AI_Text_Detection/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## 📥 Data Setup
